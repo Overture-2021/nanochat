@@ -1,5 +1,5 @@
 ---
-name: read-arxiv-paper \
+name: read-arxiv-paper
 description: Use this skill when asked to read an arXiv paper given an arXiv URL or arXiv ID
 ---
 
